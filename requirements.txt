@@ -1,0 +1,14 @@
+torch
+torchvision 
+torchaudio
+gradio
+diffusers
+transformers
+sentencepiece
+protobuf
+accelerate
+huggingface_hub[cli]
+timm
+Image
+scipy
+phonemizer
